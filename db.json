@@ -1,0 +1,22 @@
+{
+    "bigCats": [
+      { "species": "Big Cats", "name": "Tiger", "size": "10 ft", "location": "Asia", "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg" },
+      { "species": "Big Cats", "name": "Lion", "size": "8 ft", "location": "Africa", "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg" },
+      { "species": "Big Cats", "name": "Leopard", "size": "5 ft", "location": "Africa and Asia", "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Leopard_africa.jpg" },
+      { "species": "Big Cats", "name": "Cheetah", "size": "5 ft", "location": "Africa", "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Cheetah_Kruger.jpg" },
+      { "species": "Big Cats", "name": "Caracal", "size": "3 ft", "location": "Africa", "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Caracal_Caracal_schmitzi_234068303.jpg" },
+      { "species": "Big Cats", "name": "Jaguar", "size": "5 ft", "location": "Amazon", "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Jaguar_%28Panthera_onca_palustris%29_female_Piquiri_River_2.jpg" }
+    ],
+    "dogs": [
+      { "species": "Dog", "name": "Rottweiler", "size": "2 ft", "location": "Germany", "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Rottweiler_standing_facing_left.jpg" },
+      { "species": "Dog", "name": "German Shepherd", "size": "2 ft", "location": "Germany", "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Deutscher_Schaeferhund_und_Golden_Retriever.jpg" },
+      { "species": "Dog", "name": "Labrador", "size": "2 ft", "location": "UK", "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/YellowLabradorLooking_new.jpg" },
+      { "species": "Dog", "name": "Alabai", "size": "4 ft", "location": "Turkey", "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Central_Asian_Shepherd_Dog.jpg" }
+    ],
+    "bigFish": [
+      { "species": "Big Fish", "name": "Humpback Whale", "size": "15 ft", "location": "Atlantic Ocean", "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Humpback_Whale_underwater_shot.jpg" },
+      { "species": "Big Fish", "name": "Killer Whale", "size": "12 ft", "location": "Atlantic Ocean", "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Killerwhales_jumping.jpg" },
+      { "species": "Big Fish", "name": "Tiger Shark", "size": "8 ft", "location": "Ocean", "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Galeocerdo_cuvier%2C_Bahamas.jpg" },
+      { "species": "Big Fish", "name": "Hammerhead Shark", "size": "8 ft", "location": "Ocean", "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Hammerhead_shark.jpg" }
+    ]
+  }  
